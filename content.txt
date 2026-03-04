@@ -1,1 +1,14 @@
 class and obj(examples)
+class has data/attributes and it also has func/methods
+Why python is called OOP?
+advantages of OOPs concept: 
+    1. you can create your own datatype
+    2. code reuseability
+    3. debugging
+    4. easy to colab
+
+5. End to end project (chatbook class)
+    > encapsulation
+    > getter and setter
+    > static method 
+
